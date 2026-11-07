@@ -673,46 +673,6 @@
     <display-name>IT - i24news</display-name>
     <icon src="https://iptv-epg.org/images/itiUiQUyiTXG172DTFx87a7oziSEnnGbZy5br6rwU7uPih24dFrIdBuVFzy1zCp3BrEMP6aP5QGxF3bm3Tag7ARC_wdLTLtgH586mrggcA" />
   </channel>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="-frisbee-.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="-frisbee-.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="-frisbee-.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="-frisbee-.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="-frisbee-.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="-frisbee-.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="-frisbee-.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="-frisbee-.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -1033,42 +993,42 @@
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="ACISportTv.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="ACISportTv.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="ACISportTv.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="ACISportTv.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="ACISportTv.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="ACISportTv.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="ACISportTv.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="ACISportTv.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="-frisbee-.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -1389,6 +1349,46 @@
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="ACISportTv.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="ACISportTv.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="ACISportTv.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="ACISportTv.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="ACISportTv.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="ACISportTv.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="ACISportTv.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="ACISportTv.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="ACISportTv.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -3454,46 +3454,6 @@ L'eccellenza del gusto: Gelatieri in sfida.</desc>
     <episode-num>S26220000 E573183828</episode-num>
     <title lang="en">L'eccellenza del gusto: Gelatieri in sfida</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="BIKE.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="BIKE.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="BIKE.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="BIKE.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="BIKE.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="BIKE.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="BIKE.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="BIKE.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -3814,42 +3774,42 @@ L'eccellenza del gusto: Gelatieri in sfida.</desc>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="BabyTV.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="BabyTV.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="BabyTV.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="BabyTV.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="BabyTV.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="BabyTV.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="BabyTV.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="BabyTV.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="BIKE.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -4174,42 +4134,42 @@ L'eccellenza del gusto: Gelatieri in sfida.</desc>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="Blaze.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="BabyTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="Blaze.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="BabyTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="Blaze.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="BabyTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="Blaze.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="BabyTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="Blaze.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="BabyTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="Blaze.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="BabyTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="Blaze.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="BabyTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="Blaze.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="BabyTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -4530,6 +4490,46 @@ L'eccellenza del gusto: Gelatieri in sfida.</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="Blaze.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="Blaze.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="Blaze.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="Blaze.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Blaze.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Blaze.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Blaze.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="Blaze.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="Blaze.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -98035,46 +98035,6 @@ Say Waaad? con Wad.</desc>
     <episode-num>S21 E3</episode-num>
     <title lang="it">Come e' fatto</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="DiscoverySci.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="DiscoverySci.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="DiscoverySci.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="DiscoverySci.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="DiscoverySci.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="DiscoverySci.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="DiscoverySci.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="DiscoverySci.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="DiscoverySci.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -98395,326 +98355,45 @@ Say Waaad? con Wad.</desc>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261106083000 +0000" stop="20261106085500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Sitcom</category>
-    <category lang="en">Komödie</category>
-    <credits>
-      <director>Joel Murray</director>
-      <actor>Jenna Elfman</actor>
-      <actor>Thomas Gibson</actor>
-      <actor>Shae D'Lyn</actor>
-      <actor>Joel Murray</actor>
-      <actor>Mimi Kennedy</actor>
-      <actor>Alan Rachins</actor>
-      <actor>Mitch Ryan</actor>
-      <actor>Susan Sullivan</actor>
-      <actor>Yeardley Smith</actor>
-      <actor>Helen Greenberg</actor>
-    </credits>
-    <date>2000</date>
-    <desc lang="en">S4 E24 — Ende der Unschuld
-Zwischen Dharma und Greg ist noch nicht alles wieder in Ordnung, und daher zieht Greg vorübergehend aus. Bei der Hochzeit eines gemeinsamen Freundes versöhnen sie sich aber wieder.</desc>
-    <episode-num>S4 E24</episode-num>
-    <title lang="en">Dharma &amp; Greg</title>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="DiscoverySci.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261106085500 +0000" stop="20261106092500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Sitcom</category>
-    <category lang="en">Komödie</category>
-    <credits>
-      <director>Jonathan Schmock</director>
-      <actor>Jenna Elfman</actor>
-      <actor>Thomas Gibson</actor>
-      <actor>Shae D'Lyn</actor>
-      <actor>Joel Murray</actor>
-      <actor>Mimi Kennedy</actor>
-      <actor>Alan Rachins</actor>
-      <actor>Mitch Ryan</actor>
-      <actor>Susan Sullivan</actor>
-      <actor>Helen Greenberg</actor>
-      <actor>Susan Chuang</actor>
-    </credits>
-    <date>2000</date>
-    <desc lang="en">S4 E22 — Intrigen im Gemeinschaftsgarten
-Dharma und Kitty wollen einen Gemeinschaftsgarten anlegen. Beim Umgraben findet Dharma plötzlich einen Geldbeutel und will dessen Besitzer ausfindig machen.</desc>
-    <episode-num>S4 E22</episode-num>
-    <title lang="en">Dharma &amp; Greg</title>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="DiscoverySci.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261106092500 +0000" stop="20261106095500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Sitcom</category>
-    <category lang="en">Komödie</category>
-    <credits>
-      <director>Robert Berlinger</director>
-      <actor>Jenna Elfman</actor>
-      <actor>Thomas Gibson</actor>
-      <actor>Mimi Kennedy</actor>
-      <actor>Alan Rachins</actor>
-      <actor>Susan Sullivan</actor>
-      <actor>Mitch Ryan</actor>
-      <actor>Joel Murray</actor>
-      <actor>Floyd "Red Crow" Westerman</actor>
-      <actor>Bob Morrisey</actor>
-      <actor>Anne Ramsay</actor>
-    </credits>
-    <date>2001</date>
-    <desc lang="en">S5 E1 — Das Heilungsprogramm
-Dharma leidet noch immer an den Folgen des Unfalls, denn sie hat eine Hüftfraktur erlitten. Greg macht sich grosse Vorwürfe, da er nur ein paar Kratzer abbekommen hat.</desc>
-    <episode-num>S5 E1</episode-num>
-    <title lang="en">Dharma &amp; Greg</title>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="DiscoverySci.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261106095500 +0000" stop="20261106102000 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Sitcom</category>
-    <credits>
-      <actor>Zooey Deschanel</actor>
-      <actor>Jake Johnson</actor>
-      <actor>Max Greenfield</actor>
-      <actor>Lamorne Morris</actor>
-      <actor>Hannah Simone</actor>
-      <actor>Taylor Swift</actor>
-      <actor>Rob Reiner</actor>
-      <actor>Satya Bhabha</actor>
-      <actor>Ajay Mehta</actor>
-    </credits>
-    <date>2012</date>
-    <desc lang="en">S2 E25 — Vorsicht Dachs!
-Cece und Shivrang wollen heute Hochzeit feiern. Doch Schmidt glaubt, aus Cece's Verhalten herausgelesen zu haben, dass sie eigentlich gar nicht heiraten will. Also beschliessen er und Winston, die Trauung zu sabotieren. Dabei kommt unter anderem ein wilder Dachs zum Einsatz. Aber auch zwischen Jess und Nick steht eine wichtige Entscheidung an.</desc>
-    <episode-num>S2 E25</episode-num>
-    <title lang="en">New Girl</title>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="DiscoverySci.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261106102000 +0000" stop="20261106105000 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Sitcom</category>
-    <credits>
-      <actor>Zooey Deschanel</actor>
-      <actor>Jake Johnson</actor>
-      <actor>Max Greenfield</actor>
-      <actor>Lamorne Morris</actor>
-      <actor>Hannah Simone</actor>
-      <actor>Merritt Wever</actor>
-      <actor>Hemky Madera</actor>
-      <actor>Cole Sand</actor>
-      <actor>Dominic Flores</actor>
-      <actor>Ray Reynaga</actor>
-    </credits>
-    <date>2013</date>
-    <desc lang="en">S3 E1 — Voll dabei
-Nick und Jess wollen sich für ein romantisches Abenteuer nach Mexiko absetzen, doch ihr Trip entwickelt sich zum Desaster, als Nick verhaftet wird. Schmidt kann sich nicht zwischen Cece und Elizabeth entscheiden und sagt deshalb beiden Frauen, dass er mit ihnen zusammen sein will. Seine Unehrlichkeit führt zu Problemen zwischen ihm und Winston.</desc>
-    <episode-num>S3 E1</episode-num>
-    <title lang="en">New Girl</title>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="DiscoverySci.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261106105000 +0000" stop="20261106111500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Sitcom</category>
-    <credits>
-      <director>Michelle MacLaren</director>
-      <actor>Ed O'Neill</actor>
-      <actor>Julie Bowen</actor>
-      <actor>Ty Burrell</actor>
-      <actor>Sofía Vergara</actor>
-      <actor>Jesse Tyler Ferguson</actor>
-      <actor>Eric Stonestreet</actor>
-      <actor>Sarah Hyland</actor>
-      <actor>Nolan Gould</actor>
-      <actor>Ariel Winter</actor>
-      <actor>Rico Rodriguez</actor>
-    </credits>
-    <date>2016</date>
-    <desc lang="en">S8 E20 — Alle sind ... gleich
-Gloria, Claire Haley, Alex, Lily, Luke und Manny setzen sich für die Gleichberechtigung und für die Frauenbewegung ein - aber eben auf ihre eigene Art und Weise. Cam ist eifersüchtig, als Pam für ihr Baby lieber Mitchells Hilfe in Anspruch nimmt.</desc>
-    <episode-num>S8 E20</episode-num>
-    <title lang="en">Modern Family</title>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="DiscoverySci.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261106111500 +0000" stop="20261106114500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Sitcom</category>
-    <credits>
-      <director>James Alan Hensz</director>
-      <actor>Ed O'Neill</actor>
-      <actor>Julie Bowen</actor>
-      <actor>Ty Burrell</actor>
-      <actor>Sofía Vergara</actor>
-      <actor>Jesse Tyler Ferguson</actor>
-      <actor>Eric Stonestreet</actor>
-      <actor>Sarah Hyland</actor>
-      <actor>Nolan Gould</actor>
-      <actor>Ariel Winter</actor>
-      <actor>Rico Rodriguez</actor>
-    </credits>
-    <date>2016</date>
-    <desc lang="en">S8 E21 — Zeit allein
-Mitch und Jay landen im selben Resort, obwohl sie unabhängig voneinander sie sich zu einem kleinen Ausflug von der Familie aufgemacht haben. Phil und Claire kommen noch nicht mit der Situation klar, dass die Kinder aus dem Haus sind.</desc>
-    <episode-num>S8 E21</episode-num>
-    <title lang="en">Modern Family</title>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="DiscoverySci.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261106114500 +0000" stop="20261106121500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Ahmed Guerrouache</director>
-      <actor>Serra Hirsch</actor>
-    </credits>
-    <date>2021</date>
-    <desc lang="en">S2 E2022071874 — Taffy total verwirrt/ Ein Fall für Waschbär Wolfhart/ Der Nusspate
-Eine Marmorstatue landet im Park auf Taffys Kopf und verursacht einen Gedächtnisverlust. Als das mit Juwelen besetzte Ei von Mrs. Münzberg verschwindet, findet die Polizei Waschbär-Spuren. Taffy schliesst einen Pakt mit den Eichhörnchen.</desc>
-    <episode-num>S2 E2022071874</episode-num>
-    <title lang="en">Taffy</title>
-  </programme>
-  <programme start="20261106121500 +0000" stop="20261106124500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Unterhaltung</category>
-    <credits>
-      <actor>Benedikt Weber</actor>
-    </credits>
-    <date>2019</date>
-    <desc lang="en">S4 E11 — Beni und der Dominoeffekt
-Diesmal muss Beni einen Dominoeffekt auf die Beine stellen, der hundert Sekunden lang dauert.</desc>
-    <episode-num>S4 E11</episode-num>
-    <title lang="en">Die Beni Challenge</title>
-  </programme>
-  <programme start="20261106124500 +0000" stop="20261106131500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Thomas Astruc</director>
-      <actor>Cristina Valenzuela</actor>
-      <actor>Bryce Papenbrook</actor>
-      <actor>Mela Lee</actor>
-      <actor>Keith Silverstein</actor>
-      <actor>Max Mittelman</actor>
-      <actor>Carrie Keranen</actor>
-    </credits>
-    <date>2015</date>
-    <desc lang="en">S1 E3 — Der Pharao
-Alix' Bruder Jalil Kubdel entdeckt ein geheimes Ritual, durch das die griechische Göttin Nofretete wieder zum Leben erweckt werden soll. Als das Ritual infrage gestellt wird, erregt Alix Hawk Moths Aufmerksamkeit und wird in einen Pharao verwandelt. Unterdessen erfährt Alya, dass es sich bei Ladybug womöglich um eine Mitschülerin handelt.</desc>
-    <episode-num>S1 E3</episode-num>
-    <title lang="en">Miraculous - Geschichten von Ladybug und Cat Noir</title>
-  </programme>
-  <programme start="20261106131500 +0000" stop="20261106134500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Cristina Valenzuela</actor>
-      <actor>Bryce Papenbrook</actor>
-      <actor>Mela Lee</actor>
-      <actor>Keith Silverstein</actor>
-      <actor>Max Mittelman</actor>
-      <actor>Carrie Keranen</actor>
-    </credits>
-    <date>2015</date>
-    <desc lang="en">S1 E6 — Der Taubenmann
-Im Kunstkurs von Marinettes Klasse soll ein Derby-Hut entworfen werden, den Adrien bei einem Fotoshooting tragen soll. Auf der Suche nach Inspiration für diesen Hut sieht Marinette einen Mann, der Tauben im Park füttert und von der Polizei vertrieben wird. Sofort ist Hawk Moth zur Stelle, um sich dessen Unmut zunutze zu machen, und verwandelt ihn in Mr. Pigeon.</desc>
-    <episode-num>S1 E6</episode-num>
-    <title lang="en">Miraculous - Geschichten von Ladybug und Cat Noir</title>
-  </programme>
-  <programme start="20261106134500 +0000" stop="20261106135500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Kimiko Glenn</actor>
-      <actor>Michael Croner</actor>
-      <actor>Lauren Ash</actor>
-      <actor>Eric Bauza</actor>
-      <actor>Lucy Heavens</actor>
-      <actor>James Monroe Iglehart</actor>
-      <actor>Tom Kenny</actor>
-      <actor>Vella Lovell</actor>
-    </credits>
-    <date>2023</date>
-    <desc lang="en">S1 E29 — Der witzige Onkel Pat / Liff im Escape Room
-Liffs Lieblingsonkel kommt zu Besuch. / Liff und die Crew müssen einen Escape Room lösen.</desc>
-    <episode-num>S1 E29</episode-num>
-    <title lang="en">Liff &amp; Barry</title>
-  </programme>
-  <programme start="20261106135500 +0000" stop="20261106141500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Kimiko Glenn</actor>
-      <actor>Michael Croner</actor>
-      <actor>Lauren Ash</actor>
-      <actor>Eric Bauza</actor>
-      <actor>Lucy Heavens</actor>
-      <actor>James Monroe Iglehart</actor>
-      <actor>Tom Kenny</actor>
-      <actor>Vella Lovell</actor>
-    </credits>
-    <date>2023</date>
-    <desc lang="en">S1 E29 — Der witzige Onkel Pat / Liff im Escape Room
-Liffs Lieblingsonkel kommt zu Besuch. / Liff und die Crew müssen einen Escape Room lösen.</desc>
-    <episode-num>S1 E29</episode-num>
-    <title lang="en">Liff &amp; Barry</title>
-  </programme>
-  <programme start="20261106141500 +0000" stop="20261106144500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Chris Houghton</actor>
-      <actor>Artemis Pebdani</actor>
-      <actor>Marieve Herington</actor>
-      <actor>Bob Joles</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E2018070920 — Willkommen zu Hause; Die Waschbärenplage
-Als Cricket sein erstes Trinkgeld im Big Coffee verdient, investiert er es in einen singenden Plastikfisch. Tilly findet ausserdem ein Vogelnest, kümmert sich um die Eier und hofft, dass die Küken sie als Mutter annehmen.</desc>
-    <episode-num>S1 E2018070920</episode-num>
-    <title lang="en">Big City Greens</title>
-  </programme>
-  <programme start="20261106144500 +0000" stop="20261106151500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Victor-Emmanuel Moulin</director>
-      <director>Cédric Lachenaud</director>
-      <actor>Barbara Tissier</actor>
-      <actor>Benoit Dupac</actor>
-      <actor>Jérémy Prevost</actor>
-      <actor>Martial Le Minoux</actor>
-      <actor>Guillaume Orsat</actor>
-      <actor>Kaycie Chase</actor>
-    </credits>
-    <date>2022</date>
-    <desc lang="en">S1 E25 — Die Spionin von Buckingham
-Die Königin besucht Clever persönlich im Rahmen einer äusserst vertraulichen Mission. In der vergangenen Nacht versuchte ihr Geheimagent C, sich ihr anzuschliessen, um sie vor einer drohenden Gefahr zu warnen, verschwand dann aber auf mysteriöse Weise.</desc>
-    <episode-num>S1 E25</episode-num>
-    <title lang="en">Mystery Lane - Ein Fall für Clever und Bro</title>
-  </programme>
-  <programme start="20261106151500 +0000" stop="20261106154500 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Daveigh Chase</actor>
-      <actor>Christopher Sanders</actor>
-      <actor>Tia Carrere</actor>
-      <actor>David Ogden Stiers</actor>
-      <actor>Kevin McDonald</actor>
-      <actor>Ving Rhames</actor>
-      <actor>Zoe Caldwell</actor>
-      <actor>Jason Scott Lee</actor>
-    </credits>
-    <date>2004</date>
-    <desc lang="en">S2 E16 — Die Geisterjagd
-Lilo ist wieder mal mit Geistern und Zombies beschäftigt. Sobald man ihnen begegnet und in die Augen sieht, wird man sofort in Stein verwandelt. Mertle fordert Lilo heraus. Mit Nanis Erlaubnis zieht Lilo mit Jamba, Pleakley und Stitch los. Und es spukt tatsächlich, zumindest schreit jemand ganz fürchterlich. Allerdings stellt sich heraus, dass nur Experiment 248 aktiviert worden ist: ein Schreihals, der seine Feinde mit ohrenbetäubendem Lärm ausser Gefecht setzt.</desc>
-    <episode-num>S2 E16</episode-num>
-    <title lang="en">Disneys Lilo &amp; Stitch</title>
-  </programme>
-  <programme start="20261106154500 +0000" stop="20261106161000 +0000" channel="DisneyChannel.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Dan Povenmire</director>
-      <director>Zac Moncrief</director>
-      <actor>Vincent Martella</actor>
-      <actor>Thomas Brodie-Sangster</actor>
-      <actor>Ashley Tisdale</actor>
-      <actor>Caroline Rhea</actor>
-      <actor>Richard O'Brien</actor>
-      <actor>Dee Bradley Baker</actor>
-      <actor>Dan Povenmire</actor>
-      <actor>Mitchel Musso</actor>
-      <actor>Alyson Stoner</actor>
-      <actor>Jeff "Swampy" Marsh</actor>
-    </credits>
-    <date>2012</date>
-    <desc lang="en">S4 E2 — Fliegende Candace; Die Auto-Show
-Candace wird aus Versehen in eine Fliege verwandelt und nutzt dies zu ihrem Vorteil, indem sie Jeremy belauscht, um zu erfahren, wohin er sie für das gemeinsame Date ausführt. Phineas und Ferb helfen dabei, das alte Auto von Dad rechtzeitig für die Doo Wop Hop Auto-Show zu reparieren.</desc>
-    <episode-num>S4 E2</episode-num>
-    <title lang="en">Phineas und Ferb</title>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="DiscoverySci.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261106161000 +0000" stop="20261106162000 +0000" channel="DisneyChannel.ch">
     <category lang="en">Kinder</category>
@@ -104216,628 +103895,6 @@ Jay fühlt sich für seinen Beitrag in der Firma nicht ausreichend gewürdigt. P
     <date>2016</date>
     <desc lang="en">Alice verbringt Jahre damit, zur See zu fahren. Als sie wieder in London ankommt, stösst sie auf einen magischen Spiegel. So kehrt sie wieder zurück in das Reich von Unterland und trifft dort auf ihre Freunde, das weisse Kaninchen, Absolem, die Grinsekatze und den verrückten Hutmacher, der aber nicht mehr er selbst zu sein scheint. Deshalb schickt die Weisse Königin Alice auf eine Mission, um den "Chronosphäre" von Zeit zu leihen und damit in die Vergangenheit zu reisen, um alles zu richten.</desc>
     <title lang="en">Alice im Wunderland: Hinter den Spiegeln</title>
-  </programme>
-  <programme start="20261106082500 +0000" stop="20261106085000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Bret Iwan</actor>
-      <actor>Kaitlyn Robrock</actor>
-      <actor>Tony Anselmo</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Bill Farmer</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="en">S2 E33 — Das Freundschaftstag-Abenteuer
-Lors de la Journée de l'amitié, Mickey se retrouve en difficulté et reçoit une aide rapide de son amie Minnie.</desc>
-    <episode-num>S2 E33</episode-num>
-    <title lang="en">La Maison de Mickey+</title>
-  </programme>
-  <programme start="20261106085000 +0000" stop="20261106090000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Richard Jeffery</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E27 — Les pirates
-Bluey, Bingo et Missy jouent aux pirates dans le hamac, c'est l'aventure en haute mer. Mais il leur faudra du courage pour braver tempêtes et attaques de baleines.</desc>
-    <episode-num>S1 E27</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106090000 +0000" stop="20261106090500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Richard Jeffery</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E26 — La plage
-À la plage, Maman part se promener au bord de l'eau, et Bluey tente de la rattraper. En chemin, elle fait toute une série de rencontres qui la stimulent et la mettent à l'épreuve dans cette toute première aventure en solitaire.</desc>
-    <episode-num>S1 E26</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106090500 +0000" stop="20261106092000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E25 — Taxi
-Il pleut et Bluey joue au taxi à l'intérieur. Son premier client (Papa) est un homme d'affaires pressé qui veut aller à l'aéroport sans tarder. Bingo lui promet d'y arriver sans retard, mais prend en charge un second passager.</desc>
-    <episode-num>S1 E25</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106092000 +0000" stop="20261106092500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E23 — Le magasin
-La marchande est le jeu favori de Bluey et ses amis, quand ils peuvent commencer. Avec Bluey qui remet en question les règles et change les rôles, ça pourrait durer toute la journée.</desc>
-    <episode-num>S1 E23</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106092500 +0000" stop="20261106093000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E22 — La piscine
-En préparant leurs affaires pour aller à la piscine, Bluey et Papa se moquent de Maman, car ils la trouvent excessive dans son organisation. Or, en arrivant à la piscine, ils réalisent qu'elle avait raison, puisqu'ils ont oublié le plus important.</desc>
-    <episode-num>S1 E22</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106093000 +0000" stop="20261106094500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E21 — Les montagnes bleues
-Bluey, Bingo, Maman et Papa jouent aux marionnettes, explorant la terre au-delà des Montagnes bleues où ils déjouent le Renard effronté pour trouver les lits les plus doux du monde.</desc>
-    <episode-num>S1 E21</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106094500 +0000" stop="20261106101000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Arielle Yett</director>
-      <actor>Darcy Rose Byrnes</actor>
-      <actor>Mela Pietropaolo</actor>
-      <actor>Ariel Winter</actor>
-      <actor>Yonas Kibreab</actor>
-      <actor>Kai Harris</actor>
-      <actor>Aaliyah Magcasi</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="en">S1 E5 — Un pique-nique royal en famille; L'invitation Royale Ooh
-Lors d'un pique-nique en famille, Ambre veut prouver qu'elle est aussi géniale que Sofia. Quand Layla rencontre Ambre et James, elle est prête à tout pour les impressionner.</desc>
-    <episode-num>S1 E5</episode-num>
-    <title lang="en">Princesse Sofia : apprentie magicienne</title>
-  </programme>
-  <programme start="20261106101000 +0000" stop="20261106103500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Emma Berman</actor>
-      <actor>Cruz Flateau</actor>
-      <actor>Jecobi Swain</actor>
-      <actor>Pyper Braun</actor>
-    </credits>
-    <date>2023</date>
-    <desc lang="en">S1 E8 — M. Greenie manque à l'appel / Un piano disparaît
-M. Puppypaws vole le jouet préféré de Bitsy, M. Greenie. Par ailleurs, les SuperChatons doivent rendre à Petcini un piano à queue que Cat Burglar a dérobé.</desc>
-    <episode-num>S1 E8</episode-num>
-    <title lang="en">SuperChatons</title>
-  </programme>
-  <programme start="20261106103500 +0000" stop="20261106110000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Yonas Kibreab</actor>
-      <actor>Carson Minniear</actor>
-      <actor>Scarlett Kate Ferguson</actor>
-      <actor>Mica Zeltzer</actor>
-      <actor>Yvette Nicole Brown</actor>
-      <actor>Bobby Moynihan</actor>
-      <actor>Grey DeLisle</actor>
-      <actor>Kari Wahlgren</actor>
-      <actor>Eric Bauza</actor>
-      <actor>Alessandra Perez</actor>
-    </credits>
-    <date>2024</date>
-    <desc lang="en">S2 E5 — Le chien le plus rigolo d'Animaville ; Le lit-doudou de Dudley
-Les blagues de Clown Fourrurson ont tellement de succès que les Bâtichiens lui construisent une scène. Les Bâtichiens construisent aussi un lit confortable pour Dudley, un chiot en pleine croissance.</desc>
-    <episode-num>S2 E5</episode-num>
-    <title lang="en">Pupstruction, les chiots en action !</title>
-  </programme>
-  <programme start="20261106110000 +0000" stop="20261106112500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Darren Bachynski</director>
-      <director>Chris Gilligan</director>
-      <actor>Alkaio Thiele</actor>
-      <actor>Jakari Fraser</actor>
-      <actor>Audrey Bennett</actor>
-      <actor>Sandra Saad</actor>
-      <actor>Nicolas Roye</actor>
-      <actor>Bumper Robinson</actor>
-      <actor>Carter Young</actor>
-      <actor>Roger Craig Smith</actor>
-      <actor>Haley Joel Osment</actor>
-    </credits>
-    <date>2025</date>
-    <desc lang="en">S4 E3 — Robots contre Ock / Survoltage
-Les robots assistants de Spidey, Spin et Ghost-Spider aident tout l'équipage à déjouer les plans de Docteur Octopus pour lancer une fusée. Les vilains volent la Super Batterie de Black Panther et sèment le trouble en ville.</desc>
-    <episode-num>S4 E3</episode-num>
-    <title lang="en">Spidey et ses amis extraordinaires</title>
-  </programme>
-  <programme start="20261106112500 +0000" stop="20261106113500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E19 — La pince
-Bluey et Bingo n'ont pas réussi à gagner des lots de la machine à Pince Magique, alors Papa et Maman créent leur propre version à la maison. Cependant, il n'est pas facile de gagner avec Papa.</desc>
-    <episode-num>S1 E19</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106113500 +0000" stop="20261106114000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E18 — Le médecin
-Honey n'en finit plus d'attendre son tour chez le Docteur Bingo, car d'autres patients présentant des symptômes plus intéressants passent avant elle. Bluey, la réceptionniste, l'invite à patienter, puisque les autres malades sont vraiment des cas.</desc>
-    <episode-num>S1 E18</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106114000 +0000" stop="20261106114500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E17 — Calypso
-À l'école, Bluey et ses amis organisent différents jeux. Calypso, leur maîtresse, veille au bon déroulement avec un mot sage et une chanson pour tous, sauf le mystérieux Bretzel.</desc>
-    <episode-num>S1 E17</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106114500 +0000" stop="20261106115500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E2019042111 — Les pirates / La disparition / Les voisins
-Bluey et Bingo jouent aux pirates sur le hamac. Le jouet préféré de Bingo disparaît. Bluey ne sait pas comment gérer ses voisins bruyants.</desc>
-    <episode-num>S1 E2019042111</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106115500 +0000" stop="20261106120000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Richard Jeffery</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E15 — Papillons
-Le jeu des papillons est très amusant au jardin, mais Bluey part avec Judo, laissant Bingo toute seule. La pauvre Bingo est malheureuse et Bluey doit se racheter.</desc>
-    <episode-num>S1 E15</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106120000 +0000" stop="20261106120500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E14 — Plats à emporter
-Bluey et Bingo testent les limites de la patience de papa lorsqu'ils deviennent agités en attendant leur commande à emporter.</desc>
-    <episode-num>S1 E14</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106120500 +0000" stop="20261106121500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Richard Jeffery</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E13 — Les Espions
-Quand Bingo cesse de jouer au jeu d'espions de Bluey, les stratagèmes pour contrôler les adultes ne fonctionnent plus ! Bluey comprend l'importance de Bingo et doit la convaincre de reprendre le jeu.</desc>
-    <episode-num>S1 E13</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106121500 +0000" stop="20261106122500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E12 — Bob, le Bilby
-Ce week-end, la famille a éteint ses écrans pour passer du temps avec Bingo et la marionnette Bob Bilby qu'il a rapportée de son école maternelle.</desc>
-    <episode-num>S1 E12</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106122500 +0000" stop="20261106125000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Bret Iwan</actor>
-      <actor>Kaitlyn Robrock</actor>
-      <actor>Tony Anselmo</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Bill Farmer</actor>
-      <actor>Rob Paulsen</actor>
-    </credits>
-    <date>2025</date>
-    <desc lang="en">S1 E25 — Le conte du dragon
-Le goûter est interrompu par un dragon. Les amis se rendent compte qu'il s'agit de Farfus.</desc>
-    <episode-num>S1 E25</episode-num>
-    <title lang="en">La Maison de Mickey+</title>
-  </programme>
-  <programme start="20261106125000 +0000" stop="20261106131500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Chad Van De Keere</director>
-      <actor>Emma Berman</actor>
-      <actor>Cruz Flateau</actor>
-      <actor>Jecobi Swain</actor>
-      <actor>Pyper Braun</actor>
-    </credits>
-    <date>2023</date>
-    <desc lang="en">S1 E25 — Les SuperChatons et la disparition de hot-dog / Les SuperChatons et le mystérieux magicien
-Après qu'Amara a ramené un chiot perdu à Ani'matou, Bitsy craint qu'on ne lui accorde plus d'attention. Les Superchatons doivent arrêter le voleur de la malle à magie d'Abraca Dan.</desc>
-    <episode-num>S1 E25</episode-num>
-    <title lang="en">SuperChatons</title>
-  </programme>
-  <programme start="20261106131500 +0000" stop="20261106134000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Ariel Winter</actor>
-      <actor>Kai Harris</actor>
-      <actor>Aaliyah Magcasi</actor>
-      <actor>Mela Pietropaolo</actor>
-    </credits>
-    <date>2026</date>
-    <desc lang="en">S1 E4 — Pagaille magique
-Camila veut devenir l'apprentie de Cédric, mais sème la pagaille avec des sorts trop avancés.</desc>
-    <episode-num>S1 E4</episode-num>
-    <title lang="en">Princesse Sofia : apprentie magicienne</title>
-  </programme>
-  <programme start="20261106134000 +0000" stop="20261106135500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Michael Dowding</director>
-      <actor>Mason Blomberg</actor>
-      <actor>Kapri Ladd</actor>
-      <actor>Aidyn Ahn</actor>
-      <actor>Tony Hale</actor>
-      <actor>Vanessa Bayer</actor>
-    </credits>
-    <desc lang="en">S95780000 E566380155
-Les (més)aventures des meilleurs amis et super-héros Tony Stark, Riri Williams et Amadeus Cho, alors qu'ils font équipe pour protéger leur ville. Pour les aider dans leurs missions, ils ont chacun leur propre Iron Suit.</desc>
-    <episode-num>S95780000 E566380155</episode-num>
-    <title lang="en">Iron Man et ses amis incroyables</title>
-  </programme>
-  <programme start="20261106135500 +0000" stop="20261106140500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Michael Dowding</director>
-      <actor>Mason Blomberg</actor>
-      <actor>Kapri Ladd</actor>
-      <actor>Aidyn Ahn</actor>
-      <actor>Tony Hale</actor>
-      <actor>Vanessa Bayer</actor>
-    </credits>
-    <desc lang="en">S95780000 E566380156
-Les (més)aventures des meilleurs amis et super-héros Tony Stark, Riri Williams et Amadeus Cho, alors qu'ils font équipe pour protéger leur ville. Pour les aider dans leurs missions, ils ont chacun leur propre Iron Suit.</desc>
-    <episode-num>S95780000 E566380156</episode-num>
-    <title lang="en">Iron Man et ses amis incroyables</title>
-  </programme>
-  <programme start="20261106140500 +0000" stop="20261106143000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Darren Bachynski</director>
-      <director>Chris Gilligan</director>
-      <actor>Alkaio Thiele</actor>
-      <actor>Carter Young</actor>
-      <actor>Audrey Bennett</actor>
-      <actor>Sandra Saad</actor>
-    </credits>
-    <date>2025</date>
-    <desc lang="en">S4 E2 — Lézard Géant / La Bande Sauvage de Rhino
-Lézard devient géant grâce à sa potion et tente de prendre le contrôle de la tour Stark, mais un Spidey géant s'oppose à lui. Rhino s'empare de l'amulette de Tigre Blanc et sème la pagaille en ville.</desc>
-    <episode-num>S4 E2</episode-num>
-    <title lang="en">Spidey et ses amis extraordinaires</title>
-  </programme>
-  <programme start="20261106143000 +0000" stop="20261106144500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Benjamin Valic</actor>
-      <actor>Lily Sanfelippo</actor>
-      <actor>Jakari Fraser</actor>
-    </credits>
-    <date>2022</date>
-    <desc lang="en">S2 E2022093029 — Petit Hulk
-L'équipe Spidey a du pain sur la planche, l'appareil de Gobby a transformé Hulk en bébé.</desc>
-    <episode-num>S2 E2022093029</episode-num>
-    <title lang="en">Spidey et ses amis extraordinaires</title>
-  </programme>
-  <programme start="20261106144500 +0000" stop="20261106145500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E11 — Le vélo
-Dans cet épisode, Bluey et Bingo veulent un animal de compagnie. Papa leur montre combien de travail un animal de compagnie représente. Bluey a du mal à apprendre à faire du vélo.</desc>
-    <episode-num>S1 E11</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106145500 +0000" stop="20261106150000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E10 — L'hôtel
-Bluey et Bingo décident de jouer aux dirigeants d'un hôtel. Papa prend le rôle de l'invité. Cependant, Bluey a tendance à contrôler le jeu. Pour cette raison, Bingo ne veut plus jouer.</desc>
-    <episode-num>S1 E10</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106150000 +0000" stop="20261106151000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E9 — À cheval !
-Les enfants ont organisé un mariage hippique pour distraire Socks quand elle refuse de lâcher le jouet préféré de Bluey, avec papa et oncle Stripe jouant le rôle de chevaux.</desc>
-    <episode-num>S1 E9</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106151000 +0000" stop="20261106151500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E8 — La chauve-souris
-N'étant pas autorisée à se coucher tard, Bluey rêve qu'elle est une chauve-souris afin de pouvoir rester éveillée toute la nuit. Elle se retrouve bientôt à voler dans la nuit étoilée.</desc>
-    <episode-num>S1 E8</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106151500 +0000" stop="20261106152000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E7 — Le barbecue
-On déjeune sur la terrasse, mais pas de barbecue sans salade ! Bingo ne se reposera pas avant d'avoir trouvé les poivrons de toutes les couleurs que lui réclament ses cousines pour la meilleure des salades.</desc>
-    <episode-num>S1 E7</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106152000 +0000" stop="20261106154000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <director>Richard Jeffery</director>
-      <actor>David McCormack</actor>
-      <actor>Melanie Zanetti</actor>
-      <actor>Dan Brumm</actor>
-      <actor>Myf Warhurst</actor>
-      <actor>Ann Kerr</actor>
-      <actor>Megan Washington</actor>
-      <actor>Chris Brumm</actor>
-      <actor>Ian McFadyen</actor>
-    </credits>
-    <date>2018</date>
-    <desc lang="en">S1 E2018102042 — Le docteur / La griffe / Le marché
-La visite de Honey chez le Dr Bingo est sans arrêt interrompue. Maman et papa créent leur propre machine à griffes magique ! Bluey emmène avec elle l'argent que la petite souris lui a donné.</desc>
-    <episode-num>S1 E2018102042</episode-num>
-    <title lang="en">Bluey</title>
-  </programme>
-  <programme start="20261106154000 +0000" stop="20261106160500 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Bret Iwan</actor>
-      <actor>Kaitlyn Robrock</actor>
-      <actor>Tony Anselmo</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Bill Farmer</actor>
-      <actor>Rob Paulsen</actor>
-    </credits>
-    <date>2025</date>
-    <desc lang="en">S1 E27 — La soirée pyjama de Donald
-Donald organise une soirée pyjama dans sa nouvelle maison, mais il n'arrive pas à dormir. Mickey et ses amis font tout pour que Donald, et eux aussi, passent une bonne nuit.</desc>
-    <episode-num>S1 E27</episode-num>
-    <title lang="en">La Maison de Mickey+</title>
-  </programme>
-  <programme start="20261106160500 +0000" stop="20261106163000 +0000" channel="DisneyJuniorf.ch">
-    <category lang="en">Kinder</category>
-    <category lang="en">Animation</category>
-    <credits>
-      <actor>Bret Iwan</actor>
-      <actor>Kaitlyn Robrock</actor>
-      <actor>Tony Anselmo</actor>
-      <actor>Tress MacNeille</actor>
-      <actor>Bill Farmer</actor>
-      <actor>Rob Paulsen</actor>
-    </credits>
-    <date>2025</date>
-    <desc lang="en">S1 E24 — Daisy boucles d'or et les trois ours
-Lorsque Daisy Boucles d'Or a besoin d'aide pour retrouver le chemin de sa maison, Mickey utilise son livre d'histoires pour la guider. Ils traversent un pont doré et passent sous un arc-en-ciel pour retourner à sa cabane.</desc>
-    <episode-num>S1 E24</episode-num>
-    <title lang="en">La Maison de Mickey+</title>
   </programme>
   <programme start="20261106163000 +0000" stop="20261106165500 +0000" channel="DisneyJuniorf.ch">
     <category lang="en">Kinder</category>
@@ -115729,46 +114786,6 @@ Les Super Chatons aident les animaux de la jungle quand Zsa-Zsa bloque une casca
     <episode-num>S3 E2026010689</episode-num>
     <title lang="en">SuperChatons</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="EmiliaRomagna24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="EmiliaRomagna24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="EmiliaRomagna24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="EmiliaRomagna24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="EmiliaRomagna24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="EmiliaRomagna24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="EmiliaRomagna24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="EmiliaRomagna24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="EmiliaRomagna24.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -116085,6 +115102,46 @@ Les Super Chatons aident les animaux de la jungle quand Zsa-Zsa bloque une casca
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="EmiliaRomagna24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="EmiliaRomagna24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="EmiliaRomagna24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="EmiliaRomagna24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="EmiliaRomagna24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="EmiliaRomagna24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="EmiliaRomagna24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="EmiliaRomagna24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="EmiliaRomagna24.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -125565,46 +124622,6 @@ Due giovani fratelli, nuovi al mondo della ristorazione, gestiscono un ristorant
     <episode-num>S3 E3</episode-num>
     <title lang="en">Cucine da incubo</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="Fox+1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="Fox+1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="Fox+1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="Fox+1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="Fox+1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="Fox+1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="Fox+1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="Fox+1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="Fox+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -125921,6 +124938,46 @@ Due giovani fratelli, nuovi al mondo della ristorazione, gestiscono un ristorant
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="Fox+1.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="Fox+1.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="Fox+1.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="Fox+1.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Fox+1.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Fox+1.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Fox+1.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="Fox+1.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="Fox+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -128046,46 +127103,6 @@ Due giovani fratelli, nuovi al mondo della ristorazione, gestiscono un ristorant
     <icon src="https://guidatv.sky.it/uuid/9ee62089-3415-498a-8037-2bbc53ff6709/cover?territory=IT&amp;md5ChecksumParam=f23115ed59ac614334d8337936cea0a9" />
     <country lang="it">USA</country>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="Fox.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="Fox.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="Fox.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="Fox.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="Fox.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="Fox.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="Fox.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="Fox.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="Fox.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -128402,6 +127419,46 @@ Due giovani fratelli, nuovi al mondo della ristorazione, gestiscono un ristorant
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="Fox.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="Fox.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="Fox.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="Fox.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Fox.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Fox.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Fox.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="Fox.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="Fox.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -148085,46 +147142,6 @@ Per motivi egoistico-politici del sindaco, le traiettorie degli aerei sono state
     <title lang="it">Contagious</title>
     <new />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="K2.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="K2.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="K2.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="K2.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="K2.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="K2.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="K2.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="K2.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="K2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -148441,6 +147458,46 @@ Per motivi egoistico-politici del sindaco, le traiettorie degli aerei sono state
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="K2.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="K2.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="K2.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="K2.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="K2.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="K2.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="K2.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="K2.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="K2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -149438,46 +148495,6 @@ La serie ripercorre l'ascesa di Mussolini, dalla fondazione dei Fasci Italiani n
     <episode-num>S12 E46</episode-num>
     <title lang="it">Tagada', tutto quanto fa politica</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="LazioStyleCh.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="LazioStyleCh.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="LazioStyleCh.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="LazioStyleCh.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="LazioStyleCh.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="LazioStyleCh.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="LazioStyleCh.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="LazioStyleCh.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -149798,42 +148815,42 @@ La serie ripercorre l'ascesa di Mussolini, dalla fondazione dei Fasci Italiani n
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="MTV.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="MTV.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="MTV.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="MTV.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="MTV.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="MTV.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="MTV.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="MTV.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="LazioStyleCh.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -150158,42 +149175,42 @@ La serie ripercorre l'ascesa di Mussolini, dalla fondazione dei Fasci Italiani n
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="MTVMusic.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="MTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="MTVMusic.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="MTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="MTVMusic.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="MTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="MTVMusic.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="MTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="MTVMusic.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="MTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="MTVMusic.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="MTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="MTVMusic.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="MTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="MTVMusic.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="MTV.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -150514,6 +149531,46 @@ La serie ripercorre l'ascesa di Mussolini, dalla fondazione dei Fasci Italiani n
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="MTVMusic.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="MTVMusic.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="MTVMusic.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="MTVMusic.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="MTVMusic.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="MTVMusic.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="MTVMusic.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="MTVMusic.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="MTVMusic.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -153775,46 +152832,6 @@ Stacy, figlia di un amico di Michael, viene investita da un'auto pirata. Il padr
     <category>Sports</category>
     <title lang="it">Ac Milan - 2026/2027</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="MotorTrend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="MotorTrend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="MotorTrend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="MotorTrend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="MotorTrend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="MotorTrend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="MotorTrend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="MotorTrend.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -154135,42 +153152,42 @@ Stacy, figlia di un amico di Michael, viene investita da un'auto pirata. Il padr
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="NatGeoWild+1.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="NatGeoWild+1.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="NatGeoWild+1.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="NatGeoWild+1.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="NatGeoWild+1.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="NatGeoWild+1.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="NatGeoWild+1.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="NatGeoWild+1.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="MotorTrend.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -154495,42 +153512,42 @@ Stacy, figlia di un amico di Michael, viene investita da un'auto pirata. Il padr
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="NatGeoWild.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="NatGeoWild+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="NatGeoWild.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="NatGeoWild+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="NatGeoWild.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="NatGeoWild+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="NatGeoWild.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="NatGeoWild+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="NatGeoWild.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="NatGeoWild+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="NatGeoWild.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="NatGeoWild+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="NatGeoWild.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="NatGeoWild+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="NatGeoWild.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="NatGeoWild+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -154855,42 +153872,42 @@ Stacy, figlia di un amico di Michael, viene investita da un'auto pirata. Il padr
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="NationalGeo+1.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="NatGeoWild.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="NationalGeo+1.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="NatGeoWild.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="NationalGeo+1.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="NatGeoWild.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="NationalGeo+1.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="NatGeoWild.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="NationalGeo+1.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="NatGeoWild.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="NationalGeo+1.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="NatGeoWild.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="NationalGeo+1.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="NatGeoWild.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="NationalGeo+1.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="NatGeoWild.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -155215,42 +154232,42 @@ Stacy, figlia di un amico di Michael, viene investita da un'auto pirata. Il padr
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="NationalGeo.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="NationalGeo+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="NationalGeo.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="NationalGeo+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="NationalGeo.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="NationalGeo+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="NationalGeo.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="NationalGeo+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="NationalGeo.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="NationalGeo+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="NationalGeo.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="NationalGeo+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="NationalGeo.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="NationalGeo+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="NationalGeo.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="NationalGeo+1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -155571,6 +154588,46 @@ Stacy, figlia di un amico di Michael, viene investita da un'auto pirata. Il padr
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="NationalGeo.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="NationalGeo.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="NationalGeo.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="NationalGeo.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="NationalGeo.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="NationalGeo.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="NationalGeo.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="NationalGeo.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="NationalGeo.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -175454,46 +174511,6 @@ Una Mare infesta casa Van Alten e tutti tranne Bo rischiano di impazzire per i s
     <desc lang="it">Bratislava - Francesco Panella scopre i migliori ristoranti italiani all'estero.</desc>
     <episode-num system="onscreen">S9 E1</episode-num>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="Primafila1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="Primafila1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="Primafila1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="Primafila1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="Primafila1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="Primafila1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="Primafila1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="Primafila1.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -175814,42 +174831,42 @@ Una Mare infesta casa Van Alten e tutti tranne Bo rischiano di impazzire per i s
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="Primafila2.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="Primafila2.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="Primafila2.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="Primafila2.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="Primafila2.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="Primafila2.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="Primafila2.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="Primafila2.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="Primafila1.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -176174,42 +175191,42 @@ Una Mare infesta casa Van Alten e tutti tranne Bo rischiano di impazzire per i s
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="Primafila3.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="Primafila2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="Primafila3.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="Primafila2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="Primafila3.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="Primafila2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="Primafila3.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Primafila2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="Primafila3.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Primafila2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="Primafila3.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Primafila2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="Primafila3.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="Primafila2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="Primafila3.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="Primafila2.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -176534,42 +175551,42 @@ Una Mare infesta casa Van Alten e tutti tranne Bo rischiano di impazzire per i s
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="Primafila4.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="Primafila3.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="Primafila4.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="Primafila3.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="Primafila4.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="Primafila3.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="Primafila4.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Primafila3.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="Primafila4.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Primafila3.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="Primafila4.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Primafila3.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="Primafila4.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="Primafila3.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="Primafila4.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="Primafila3.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -176894,42 +175911,42 @@ Una Mare infesta casa Van Alten e tutti tranne Bo rischiano di impazzire per i s
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="Primafila5.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="Primafila4.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="Primafila5.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="Primafila4.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="Primafila5.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="Primafila4.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="Primafila5.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Primafila4.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="Primafila5.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Primafila4.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="Primafila5.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Primafila4.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="Primafila5.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="Primafila4.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="Primafila5.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="Primafila4.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -177254,42 +176271,42 @@ Una Mare infesta casa Van Alten e tutti tranne Bo rischiano di impazzire per i s
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="QVC.it">
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="Primafila5.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="QVC.it">
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="Primafila5.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="QVC.it">
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="Primafila5.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="QVC.it">
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Primafila5.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="QVC.it">
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Primafila5.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="QVC.it">
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Primafila5.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="QVC.it">
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="Primafila5.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="QVC.it">
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="Primafila5.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -177610,6 +176627,46 @@ Una Mare infesta casa Van Alten e tutti tranne Bo rischiano di impazzire per i s
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="QVC.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="QVC.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="QVC.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="QVC.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="QVC.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="QVC.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="QVC.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="QVC.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="QVC.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -188135,46 +187192,6 @@ Dopo una notte allo scalo del traghetto con Maddy, Alex trova un posto in cui st
     <episode-num>S1 E2</episode-num>
     <title lang="en">Maid</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="RTDoc.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="RTDoc.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="RTDoc.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="RTDoc.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="RTDoc.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="RTDoc.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="RTDoc.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="RTDoc.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="RTDoc.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -188491,6 +187508,46 @@ Dopo una notte allo scalo del traghetto con Maddy, Alex trova un posto in cui st
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="RTDoc.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="RTDoc.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="RTDoc.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="RTDoc.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="RTDoc.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="RTDoc.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="RTDoc.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="RTDoc.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="RTDoc.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -243903,46 +242960,6 @@ Pellicola biografica con Isabelle Huppert protagonista. Maureen Kernay, sindacal
     <desc lang="it">Edoardo Leo e Greta Gasbarri in un toccante dramma familiare di Ivano De Matteo. Un'adolescente si innamora di un ragazzo che svela ben presto il suo lato possessivo e violento (ITA 2023).</desc>
     <title lang="it">Mia</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="SkyCinemaDue+24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="SkyCinemaDue+24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="SkyCinemaDue+24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="SkyCinemaDue+24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="SkyCinemaDue+24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="SkyCinemaDue+24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="SkyCinemaDue+24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="SkyCinemaDue+24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="SkyCinemaDue+24.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -244259,6 +243276,46 @@ Pellicola biografica con Isabelle Huppert protagonista. Maureen Kernay, sindacal
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="SkyCinemaDue+24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="SkyCinemaDue+24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="SkyCinemaDue+24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="SkyCinemaDue+24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="SkyCinemaDue+24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="SkyCinemaDue+24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="SkyCinemaDue+24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="SkyCinemaDue+24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="SkyCinemaDue+24.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -262880,46 +261937,6 @@ Vincenzo e Sonia volano ad Amburgo per seguire le tracce di una droga pericolosa
     <episode-num>S1 E3</episode-num>
     <title lang="it">Piedone - Uno sbirro a Napoli</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="SkyMeteo24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="SkyMeteo24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="SkyMeteo24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="SkyMeteo24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="SkyMeteo24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="SkyMeteo24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="SkyMeteo24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="SkyMeteo24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="SkyMeteo24.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -263236,6 +262253,46 @@ Vincenzo e Sonia volano ad Amburgo per seguire le tracce di una droga pericolosa
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="SkyMeteo24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="SkyMeteo24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="SkyMeteo24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="SkyMeteo24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="SkyMeteo24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="SkyMeteo24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="SkyMeteo24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="SkyMeteo24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="SkyMeteo24.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -285601,46 +284658,6 @@ Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorro
     <title lang="it">Singolare Round Robin</title>
     <live />
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="SkySportUno.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="SkySportUno.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="SkySportUno.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="SkySportUno.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="SkySportUno.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="SkySportUno.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="SkySportUno.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="SkySportUno.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="SkySportUno.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -285957,6 +284974,46 @@ Due leggende del tennis italiano, Adriano Panatta e Paolo Bertolucci, ripercorro
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="SkySportUno.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="SkySportUno.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="SkySportUno.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="SkySportUno.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="SkySportUno.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="SkySportUno.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="SkySportUno.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="SkySportUno.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="SkySportUno.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -296411,46 +295468,6 @@ Ludovica e Carlotta sono gemelle fisicamente identiche ma con personalita' oppos
     <desc lang="it">News.</desc>
     <title lang="it">News</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="TGNORBA24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="TGNORBA24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="TGNORBA24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="TGNORBA24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="TGNORBA24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="TGNORBA24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="TGNORBA24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="TGNORBA24.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="TGNORBA24.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -296767,6 +295784,46 @@ Ludovica e Carlotta sono gemelle fisicamente identiche ma con personalita' oppos
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="TGNORBA24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="TGNORBA24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="TGNORBA24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="TGNORBA24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="TGNORBA24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="TGNORBA24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="TGNORBA24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="TGNORBA24.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="TGNORBA24.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
@@ -307773,46 +306830,6 @@ E' Natale, ma mentre tutti gli amici sono riuniti a New York, Chandler e' blocca
     <desc lang="it">Inedito action con l'intramontabile Steven Seagal. Profondamente segnato dalla guerra in Iraq, Alexander lascia la divisa e si costruisce una nuova vita in Romania. Il coinvolgimento di un amico nei loschi affari della mafia cinese lo costringera' a riprendere in mano le armi.</desc>
     <title lang="it">A Good Man</title>
   </programme>
-  <programme start="20261107070000 +0000" stop="20261107080000 +0000" channel="i24news.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107080000 +0000" stop="20261107090000 +0000" channel="i24news.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="i24news.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107110000 +0000" channel="i24news.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107110000 +0000" stop="20261107120000 +0000" channel="i24news.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107120000 +0000" stop="20261107130000 +0000" channel="i24news.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="i24news.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
-  <programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="i24news.it">
-    <title>No Data</title>
-    <desc>https://iptv-epg.org/help</desc>
-    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
-  </programme>
   <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="i24news.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
@@ -308129,6 +307146,46 @@ E' Natale, ma mentre tutti gli amici sono riuniti a New York, Chandler e' blocca
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
   </programme>
   <programme start="20261110060000 +0000" stop="20261110070000 +0000" channel="i24news.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="i24news.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110080000 +0000" stop="20261110090000 +0000" channel="i24news.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110090000 +0000" stop="20261110100000 +0000" channel="i24news.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="i24news.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="i24news.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="i24news.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="i24news.it">
+    <title>No Data</title>
+    <desc>https://iptv-epg.org/help</desc>
+    <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
+  </programme>
+  <programme start="20261110140000 +0000" stop="20261110150000 +0000" channel="i24news.it">
     <title>No Data</title>
     <desc>https://iptv-epg.org/help</desc>
     <icon src="https://iptv-epg.org/images/pk65exgZRia1zyr7s4YcyRO7F2TiMUhgiwLmULl7h5EH7iD92IFnB98qrplev4JIcSM_A6B0QEcW" />
